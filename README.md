@@ -16,6 +16,6 @@ The common uses of this app are:
 [IndexedDb](https://www.npmjs.com/package/idb)
 [Workbox](https://www.npmjs.com/package/workbox-webpack-plugin)
 ### Resources
-![Deployed Application Screenshot](./screenshot/J-A-T-E.png)
-[Delpoyed App](https://another-text-editor-040923-3c59dc8eb62b.herokuapp.com/)
+[Deployed App](https://another-text-editor-040923-3c59dc8eb62b.herokuapp.com/)
 [Github Repo](https://github.com/cdgonzo23/pwa-text-editor)
+![Deployed Application Screenshot](./screenshot/J-A-T-E.png)
