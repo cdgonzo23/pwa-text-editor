@@ -40,6 +40,7 @@ registerRoute(
   })
 );
 
+// added cache route so the logo is cached. So Logo stays while offline.
 registerRoute(
   ({ request }) => request.destination === 'image',
   new CacheFirst({
