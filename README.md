@@ -10,11 +10,11 @@ The common uses of this app are:
 3. Have this data persist even when the user is offline.
 4. Install the app as an application for easy access.
 ## Technologies
-[Babel](https://babeljs.io/)
-[Webpack](https://webpack.js.org/)
-[CodeMirror](https://codemirror.net/)
-[IndexedDb](https://www.npmjs.com/package/idb)
-[Workbox](https://www.npmjs.com/package/workbox-webpack-plugin)
+- [Babel](https://babeljs.io/)
+- [Webpack](https://webpack.js.org/)
+- [CodeMirror](https://codemirror.net/)
+- [IndexedDb](https://www.npmjs.com/package/idb)
+- [Workbox](https://www.npmjs.com/package/workbox-webpack-plugin)
 ### Resources
 [Deployed App](https://another-text-editor-040923-3c59dc8eb62b.herokuapp.com/)
 [Github Repo](https://github.com/cdgonzo23/pwa-text-editor)
